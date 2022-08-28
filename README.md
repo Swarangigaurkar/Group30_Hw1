@@ -6,6 +6,6 @@
 
 This is a simple calculator that can perform the following arithmetic operations on two numbers:
 1. Addition
-2. Subtaction
+2. Subtraction
 3. Multiplication
 4. Division
