@@ -5,16 +5,16 @@ from Group_HW1.code.main import multiply
 from Group_HW1.code.main import divide
 
 def test_add():
-    assert add_func(3,4) == 3
+    assert add(3,4) == 7
 
 
 def test_sub():
-    assert sub_func(4,3) == 1
+    assert subtract(4,3) == 1
 
 
 def test_mul():
-    assert mul_func(3,4) == 12
+    assert multiply(3,4) == 12
 
 
 def test_div():
-    assert div_func(3,1) == 3
+    assert divide(3,1) == 3
