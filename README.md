@@ -27,7 +27,7 @@ Download python for your system https://www.python.org/
 4. Run the following command to start the project
 
 ````````````````````````````````````````````````````````````
-python main.py
+python3 code/main.py
 ````````````````````````````````````````````````````````````
 
 ## Output :
