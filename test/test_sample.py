@@ -1,7 +1,7 @@
 # content of test_sample.py
 
 import sys
-sys.path.insert(0,'Group30_Hw1/code')
+sys.path.insert(0,'Swarangigaurkar/Group30_Hw1/code')
 
 from main import add
 from main import subtract
