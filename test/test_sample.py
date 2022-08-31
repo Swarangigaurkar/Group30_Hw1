@@ -1,8 +1,12 @@
 # content of test_sample.py
-from Group_HW1.code.main import add
-from Group_HW1.code.main import subtract
-from Group_HW1.code.main import multiply
-from Group_HW1.code.main import divide
+
+import sys
+sys.path.insert(0,'Group30_Hw1/code')
+
+from main import add
+from main import subtract
+from main import multiply
+from main import divide
 
 
 #test add function
@@ -20,3 +24,9 @@ def test_mul():
 #test divide function
 def test_div():
     assert divide(3,1) == 3
+    
+
+test_add()
+test_sub()
+test_mul()
+test_div()
