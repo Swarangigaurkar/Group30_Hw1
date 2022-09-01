@@ -5,7 +5,7 @@ import pytest
 import sys
 sys.path.append('./code')
 
-from code.main import add
+from main import add
 from main import subtract
 from main import multiply
 from main import divide
