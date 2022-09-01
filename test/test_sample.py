@@ -3,7 +3,7 @@
 import pytest
 
 import sys
-sys.path.insert(0,'/Group30_Hw1/code')
+sys.path.append('./code')
 
 from code.main import add
 from main import subtract
