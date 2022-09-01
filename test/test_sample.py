@@ -5,7 +5,7 @@ import pytest
 import sys
 sys.path.insert(0,'/Group30_Hw1/code')
 
-from main import add
+from code.main import add
 from main import subtract
 from main import multiply
 from main import divide
