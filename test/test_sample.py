@@ -2,13 +2,13 @@
 
 import pytest
 
-#import sys
-#sys.path.insert(0,'/Group30_Hw1/code')
+import sys
+sys.path.insert(0,'/Group30_Hw1/code')
 
-from Group30_Hw1.code.main import add
-from Group30_Hw1.code.main import subtract
-from Group30_Hw1.code.main import multiply
-from Group30_Hw1.code.main import divide
+from main import add
+from main import subtract
+from main import multiply
+from main import divide
 
 
 #test add function
