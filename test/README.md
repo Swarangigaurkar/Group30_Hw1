@@ -11,8 +11,8 @@ This project uses pytest so running pytest at the root folder will execute all t
 ```
 >>> pytest
 ```  
-or 
-#run the test file
+OR </br>
+Run the test file
 ```
 >>> test_sample.py
 ``` 
