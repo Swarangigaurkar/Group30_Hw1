@@ -1,12 +1,12 @@
 Tests are written in Python using Pytest 5.0 testing framework.
 
-**Install Pytest**
+**Install Pytest**__
 To run these tests install Pytest latest version onto your local machine.
 ```
 >>> pip install pytest
 ```
 
-**Running the tests**
+**Running the tests**__
 This project uses pytest so running pytest at the root folder will execute all tests on current environment.
 ```
 >>> pytest
@@ -17,7 +17,7 @@ or
 >>> test_sample.py
 ``` 
 
-**Results**
+**Results**__
 
 If all the test cases are passed, no error is shown.
 
