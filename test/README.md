@@ -22,4 +22,10 @@ Run the test file
 If all the test cases are passed, no error is shown.
 
 If any of the test cases mentioned fails, it shows the error in red.
+
+```
+ERROR collecting test/test_sample.py - assert 6.0 == 3
+!!!!!!!!!!!! Interrupted 1 error during collection !!!!!!!!!!!!!!!!!!!
+```
+
  
