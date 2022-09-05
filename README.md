@@ -6,6 +6,7 @@
 <a href="https://github.com/Swarangigaurkar/Group30_Hw1/graphs/contributors" alt="Contributors">
 <img src="https://img.shields.io/github/contributors/swarangigaurkar/group30_hw1?style=plastic"/> </a>
 [![Python application](https://github.com/Swarangigaurkar/Group30_Hw1/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/Swarangigaurkar/Group30_Hw1/actions/workflows/python-app.yml)
+[![DOI](https://zenodo.org/badge/529934395.svg)](https://zenodo.org/badge/latestdoi/529934395)
 
 This is a simple calculator that can perform the following arithmetic operations on two numbers :
 1. Addition
@@ -34,6 +35,8 @@ python3 code/main.py
 ````````````````````````````````````````````````````````````
 
 ## Output :
+
+![image](https://user-images.githubusercontent.com/112131763/188497525-c07fd561-d117-4c28-9af8-38f991388e02.png)
 
 ## Authors :
 
