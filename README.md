@@ -1,10 +1,10 @@
 # Calculator
 
-<a href="https://github.com/Swarangigaurkar/Group30_Hw1" alt="File count"><img src="https://img.shields.io/github/directory-file-count/swarangigaurkar/Group30_Hw1?style=plastic"/> </a>
+<a href="https://github.com/Swarangigaurkar/Group30_Hw1" alt="File count"><img src="https://img.shields.io/github/directory-file-count/swarangigaurkar/Group30_Hw1"/> </a>
 <a href="https://github.com/Swarangigaurkar/Group30_Hw1/blob/main/License.md" alt="LICENSE">
-  <img src="https://img.shields.io/github/license/swarangigaurkar/Group30_Hw1?style=plastic" /></a>
+  <img src="https://img.shields.io/github/license/swarangigaurkar/Group30_Hw1" /></a>
 <a href="https://github.com/Swarangigaurkar/Group30_Hw1/graphs/contributors" alt="Contributors">
-<img src="https://img.shields.io/github/contributors/swarangigaurkar/group30_hw1?style=plastic"/> </a>
+<img src="https://img.shields.io/github/contributors/swarangigaurkar/group30_hw1"/> </a>
 [![Python application](https://github.com/Swarangigaurkar/Group30_Hw1/actions/workflows/python-app.yml/badge.svg?branch=main)](https://github.com/Swarangigaurkar/Group30_Hw1/actions/workflows/python-app.yml)
 [![DOI](https://zenodo.org/badge/529934395.svg)](https://zenodo.org/badge/latestdoi/529934395)
 
