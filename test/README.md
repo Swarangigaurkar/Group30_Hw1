@@ -9,7 +9,7 @@ To run these tests install Pytest latest version onto your local machine.
 **Running the tests** </br>
 This project uses pytest so running pytest at the root folder will execute all tests on current environment.
 ```
->>> pytest
+>>> pytest test/test_sample.py
 ```  
 OR </br>
 Run the test file
